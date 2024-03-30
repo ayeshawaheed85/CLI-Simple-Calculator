@@ -1,10 +1,28 @@
-#Description
+# Node.js Calculator
 
-    Simple CLI Calculator using TypeScript and Node.js
-    This is a simple Command Line Interface (CLI) calculator application built using TypeScript and Node.js. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division from the command line.
+This is a simple command-line calculator built with Node.js using the Inquirer library for user input.
 
-#Features
+## Features
 
-    -Supports addition, subtraction, multiplication, and division.
-    -Simple and easy-to-use command line interface.
-    -Written in TypeScript for better code maintainability and type safety.
+- Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Handles division by zero gracefully.
+- Accepts user input for numbers and the desired operation.
+- Runs entirely in the terminal.
+
+## Requirements
+
+- Node.js installed on your machine.
+
+## Installation
+
+1. Clone this repository or download the files.
+2. Navigate to the directory containing the files.
+3. Install dependencies by running:
+    ```
+    npm install
+    ```
+
+## Usage
+
+To run the calculator, execute the following command in your terminal:
+
