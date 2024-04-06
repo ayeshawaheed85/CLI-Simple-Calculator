@@ -22,7 +22,4 @@ This is a simple command-line calculator built with Node.js using the Inquirer l
     npm install
     ```
 
-## Usage
-
-To run the calculator, execute the following command in your terminal:
 
